@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi, I'm Cristian 👋
+
+Software engineer with a particupar focus on Docker, C# and Android. 
+In this repo are examples about those technologies.  
+
+
 
 <!--
 **cristian02/cristian02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
